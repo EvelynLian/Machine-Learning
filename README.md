@@ -8,15 +8,11 @@ Accuracy (it does not apply to the situation like, prediction of disease)
 
 
      TP + TN
-     
-= ----------------          
-
+= ----------------         
       Total
    
 Precision (calculate the true positive rate out of all predicted postives)：it is a good measure when the cost of the false positive is high. 
-
        TP
-       
 = ----------------                        FP: spam email (P) non-spam email(N) --> mis-classified non-spam email to spam, which results in missing important emails
 
      TP + FP
