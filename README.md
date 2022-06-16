@@ -6,6 +6,7 @@ Model that you can predict the results which are categorical, for example, the p
 
 Accuracy (it does not apply to the situation like, prediction of disease)
 
+
      TP + TN
      
 = ----------------          
